@@ -12,10 +12,16 @@ public class Score
     text(label+points,x,y);
   }
   
-  public int getPoints()
+ /* public boolean Victory()
   {
-    return points;
-  }
+    if(points>=10){
+      song2.stop();
+      song3.play();
+      return victory = true;
+    }else{
+      return victory = false;
+    }
+  }*/
   
   public void addPoint()
   {

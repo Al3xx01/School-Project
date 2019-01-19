@@ -3,13 +3,13 @@ public class Ball
   private float x;
   private float y;
   private int d;
-  private int xSpeed;
-  private int ySpeed;
+  private float xSpeed;
+  private float ySpeed;
   
   public Ball()
   {
-    x=100;      //posizione X centro
-    y=100;     //posizione Y centro
+    x=250;      //posizione X centro
+    y=250;     //posizione Y centro
     d=width/25;
     xSpeed=3;
     ySpeed=3;
@@ -36,10 +36,10 @@ public class Ball
     y+=ySpeed;
   }
   
-  public void show()
+  public void show(int r, int g, int b)
   {
     stroke(0);
-    fill(255,0,0);
+    fill(255,0,0,200);
     ellipse(x,y,d,d);
   }  
   
@@ -93,12 +93,12 @@ public class Ball
     this.ySpeed--;
   }
   
-  public int getXSpeed()
+  public float getXSpeed()
   {
     return xSpeed;
   }
   
-  public int getYSpeed()
+  public float getYSpeed()
   {
     return ySpeed;
   }
