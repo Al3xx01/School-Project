@@ -1,6 +1,6 @@
-# Project Title
+# MindArkanoid
 
-One Paragraph of project description goes here
+Game create by 
 
 ## Getting Started
 
