@@ -1,6 +1,6 @@
 # MindArkanoid
 
-Game create by Damiano Edoardo(EdwardFreschissimo on GitHub/e-mail: edoardo.damiano@itiscuneo.eu)
+Game create by Alex Casale(Al3xx01 on GitHub/e-mail: alex.casale@itiscuneo.eu) & Damiano Edoardo(EdwardFreschissimo on GitHub/e-mail: edoardo.damiano@itiscuneo.eu)
 
 ## Getting Started
 
