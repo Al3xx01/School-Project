@@ -1,0 +1,18 @@
+<EmoMappingModel mappingName="arca1.ekm" >
+    <EmoMapping enabled="1" name="Freccia Su" keys="" sendOnce="0" sendToFocus="1" targetApp="" sendHotKeys="1" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" enterKey="0" hotKey="16777235" holdKey="0" holdTime="20" triggerDelayTime="20" player="0" mouseclickset="0" mousebutnum="-1">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="12" />
+            <threshold type="double" value="0.4" />
+            <actionRule value="3" />
+        </EmoStateCondition>
+    </EmoMapping>
+    <EmoMapping enabled="1" name="Freccia Giu" keys="" sendOnce="0" sendToFocus="1" targetApp="" sendHotKeys="1" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" enterKey="0" hotKey="16777237" holdKey="0" holdTime="17" triggerDelayTime="20" player="0" mouseclickset="0" mousebutnum="-1">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="12" />
+            <threshold type="double" value="0.6" />
+            <actionRule value="2" />
+        </EmoStateCondition>
+    </EmoMapping>
+</EmoMappingModel>
