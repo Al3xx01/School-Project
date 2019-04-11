@@ -8,9 +8,7 @@ We thought of a new way to play videogames: using your mind and your own body as
 
 This way to play videogames furthermore is fully accessible to people with physical or mental disabilities and it allows them to have fun with videogames.
 
-### This 
-### Is 
-### MindGames
+### This Is MindGames
 
 ## Hardware Components
 
