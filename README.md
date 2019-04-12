@@ -10,6 +10,9 @@ This way to play videogames furthermore is fully accessible to people with physi
 
 ### This Is MindGames
 
+MindArkanoid is the practical implementation of the project MindGames.
+We developed a version of the good old Arkanoid making sure that he can be controlled by player's mind.
+
 ## Hardware Components
 
 To make our videogame interact with player's mind we used an EEG Helmet (Emotiv Epoc+ ©), provided by IIT.
@@ -20,3 +23,4 @@ The helmet also detects the movements of player's head and we have used this fea
 This is very useful especially for people with disabilities who might not be able to move their hands or other parts of their body.
 
 ## Software Components
+
