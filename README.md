@@ -31,8 +31,8 @@ The Emotiv software is essential to set the helmet while you're wearing it.
 Furthermore the software allows us to set limit values to detect only real commands from player's mind, distinguish signals from background noise.
 In case there are some issues with the signals, you can see a clear report of all brain activities detected by the helmet so that you can change the limit values or adjust the code on the basis of the bugs you have to solve.
 
-When the player has hit every block on the top of the videogame, the match finishes and he sees a sign: "You won! Click to try again".
-If the ball falls missing the paddle, the match finishes and the player sees another sign: "Game Over! Click to try again".
+When the player has hit every block on the top of the videogame, the match finishes and he sees a sign: "You won! Click to try again". 
+If the ball falls missing the paddle, the match finishes and the player sees another sign: "Game Over! Click to try again". 
 While someone's playing there's a bacground music that start again every time the match gets restarted.
 
 Using the arrow keys on the keyboard you can set the speed of the ball while the match is going on.
